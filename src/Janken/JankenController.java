@@ -44,7 +44,7 @@ public class JankenController {
      doJanken(2);
      }
 
-         //ラベルの更新メソッドであるupdateLabels()を呼び出し
+         //ラベルの更新メソッドであるupdateLabels()を呼び出しa
          //自分の手(myHand)と相手の手(cpuHand)を渡す
          //CPUの手はgetCpuHand()で取得
      private void doJanken(int myHand) {
